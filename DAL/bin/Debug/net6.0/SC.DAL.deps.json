@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SC.DAL/1.0.0": {
+        "dependencies": {
+          "SC.BL.Domain": "1.0.0"
+        },
+        "runtime": {
+          "SC.DAL.dll": {}
+        }
+      },
+      "SC.BL.Domain/1.0.0": {
+        "runtime": {
+          "SC.BL.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SC.DAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SC.BL.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
