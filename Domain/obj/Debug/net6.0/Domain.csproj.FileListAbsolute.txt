@@ -1,0 +1,12 @@
+C:\Users\jonas\OneDrive\Computer\1_SCHOOL\Hogeschool\2022 - 2023\Progra. .NET 2\oefeningen\SupportCenter\Domain\bin\Debug\net6.0\SC.BL.Domain.deps.json
+C:\Users\jonas\OneDrive\Computer\1_SCHOOL\Hogeschool\2022 - 2023\Progra. .NET 2\oefeningen\SupportCenter\Domain\bin\Debug\net6.0\SC.BL.Domain.dll
+C:\Users\jonas\OneDrive\Computer\1_SCHOOL\Hogeschool\2022 - 2023\Progra. .NET 2\oefeningen\SupportCenter\Domain\bin\Debug\net6.0\SC.BL.Domain.pdb
+C:\Users\jonas\OneDrive\Computer\1_SCHOOL\Hogeschool\2022 - 2023\Progra. .NET 2\oefeningen\SupportCenter\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\jonas\OneDrive\Computer\1_SCHOOL\Hogeschool\2022 - 2023\Progra. .NET 2\oefeningen\SupportCenter\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonas\OneDrive\Computer\1_SCHOOL\Hogeschool\2022 - 2023\Progra. .NET 2\oefeningen\SupportCenter\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\jonas\OneDrive\Computer\1_SCHOOL\Hogeschool\2022 - 2023\Progra. .NET 2\oefeningen\SupportCenter\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\jonas\OneDrive\Computer\1_SCHOOL\Hogeschool\2022 - 2023\Progra. .NET 2\oefeningen\SupportCenter\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\jonas\OneDrive\Computer\1_SCHOOL\Hogeschool\2022 - 2023\Progra. .NET 2\oefeningen\SupportCenter\Domain\obj\Debug\net6.0\SC.BL.Domain.dll
+C:\Users\jonas\OneDrive\Computer\1_SCHOOL\Hogeschool\2022 - 2023\Progra. .NET 2\oefeningen\SupportCenter\Domain\obj\Debug\net6.0\refint\SC.BL.Domain.dll
+C:\Users\jonas\OneDrive\Computer\1_SCHOOL\Hogeschool\2022 - 2023\Progra. .NET 2\oefeningen\SupportCenter\Domain\obj\Debug\net6.0\SC.BL.Domain.pdb
+C:\Users\jonas\OneDrive\Computer\1_SCHOOL\Hogeschool\2022 - 2023\Progra. .NET 2\oefeningen\SupportCenter\Domain\obj\Debug\net6.0\ref\SC.BL.Domain.dll

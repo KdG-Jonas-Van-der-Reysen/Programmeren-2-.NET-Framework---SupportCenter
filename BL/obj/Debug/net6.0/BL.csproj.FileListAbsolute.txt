@@ -1,0 +1,17 @@
+C:\Users\jonas\OneDrive\Computer\1_SCHOOL\Hogeschool\2022 - 2023\Progra. .NET 2\oefeningen\SupportCenter\BL\bin\Debug\net6.0\SC.BL.deps.json
+C:\Users\jonas\OneDrive\Computer\1_SCHOOL\Hogeschool\2022 - 2023\Progra. .NET 2\oefeningen\SupportCenter\BL\bin\Debug\net6.0\SC.BL.dll
+C:\Users\jonas\OneDrive\Computer\1_SCHOOL\Hogeschool\2022 - 2023\Progra. .NET 2\oefeningen\SupportCenter\BL\bin\Debug\net6.0\SC.BL.pdb
+C:\Users\jonas\OneDrive\Computer\1_SCHOOL\Hogeschool\2022 - 2023\Progra. .NET 2\oefeningen\SupportCenter\BL\bin\Debug\net6.0\SC.BL.Domain.dll
+C:\Users\jonas\OneDrive\Computer\1_SCHOOL\Hogeschool\2022 - 2023\Progra. .NET 2\oefeningen\SupportCenter\BL\bin\Debug\net6.0\SC.DAL.dll
+C:\Users\jonas\OneDrive\Computer\1_SCHOOL\Hogeschool\2022 - 2023\Progra. .NET 2\oefeningen\SupportCenter\BL\bin\Debug\net6.0\SC.DAL.pdb
+C:\Users\jonas\OneDrive\Computer\1_SCHOOL\Hogeschool\2022 - 2023\Progra. .NET 2\oefeningen\SupportCenter\BL\bin\Debug\net6.0\SC.BL.Domain.pdb
+C:\Users\jonas\OneDrive\Computer\1_SCHOOL\Hogeschool\2022 - 2023\Progra. .NET 2\oefeningen\SupportCenter\BL\obj\Debug\net6.0\BL.csproj.AssemblyReference.cache
+C:\Users\jonas\OneDrive\Computer\1_SCHOOL\Hogeschool\2022 - 2023\Progra. .NET 2\oefeningen\SupportCenter\BL\obj\Debug\net6.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonas\OneDrive\Computer\1_SCHOOL\Hogeschool\2022 - 2023\Progra. .NET 2\oefeningen\SupportCenter\BL\obj\Debug\net6.0\BL.AssemblyInfoInputs.cache
+C:\Users\jonas\OneDrive\Computer\1_SCHOOL\Hogeschool\2022 - 2023\Progra. .NET 2\oefeningen\SupportCenter\BL\obj\Debug\net6.0\BL.AssemblyInfo.cs
+C:\Users\jonas\OneDrive\Computer\1_SCHOOL\Hogeschool\2022 - 2023\Progra. .NET 2\oefeningen\SupportCenter\BL\obj\Debug\net6.0\BL.csproj.CoreCompileInputs.cache
+C:\Users\jonas\OneDrive\Computer\1_SCHOOL\Hogeschool\2022 - 2023\Progra. .NET 2\oefeningen\SupportCenter\BL\obj\Debug\net6.0\BL.csproj.CopyComplete
+C:\Users\jonas\OneDrive\Computer\1_SCHOOL\Hogeschool\2022 - 2023\Progra. .NET 2\oefeningen\SupportCenter\BL\obj\Debug\net6.0\SC.BL.dll
+C:\Users\jonas\OneDrive\Computer\1_SCHOOL\Hogeschool\2022 - 2023\Progra. .NET 2\oefeningen\SupportCenter\BL\obj\Debug\net6.0\refint\SC.BL.dll
+C:\Users\jonas\OneDrive\Computer\1_SCHOOL\Hogeschool\2022 - 2023\Progra. .NET 2\oefeningen\SupportCenter\BL\obj\Debug\net6.0\SC.BL.pdb
+C:\Users\jonas\OneDrive\Computer\1_SCHOOL\Hogeschool\2022 - 2023\Progra. .NET 2\oefeningen\SupportCenter\BL\obj\Debug\net6.0\ref\SC.BL.dll

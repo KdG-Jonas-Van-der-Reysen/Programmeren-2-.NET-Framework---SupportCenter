@@ -1,0 +1,15 @@
+C:\Users\jonas\OneDrive\Computer\1_SCHOOL\Hogeschool\2022 - 2023\Progra. .NET 2\oefeningen\SupportCenter\DAL\bin\Debug\net6.0\SC.DAL.deps.json
+C:\Users\jonas\OneDrive\Computer\1_SCHOOL\Hogeschool\2022 - 2023\Progra. .NET 2\oefeningen\SupportCenter\DAL\bin\Debug\net6.0\SC.DAL.dll
+C:\Users\jonas\OneDrive\Computer\1_SCHOOL\Hogeschool\2022 - 2023\Progra. .NET 2\oefeningen\SupportCenter\DAL\bin\Debug\net6.0\SC.DAL.pdb
+C:\Users\jonas\OneDrive\Computer\1_SCHOOL\Hogeschool\2022 - 2023\Progra. .NET 2\oefeningen\SupportCenter\DAL\bin\Debug\net6.0\SC.BL.Domain.dll
+C:\Users\jonas\OneDrive\Computer\1_SCHOOL\Hogeschool\2022 - 2023\Progra. .NET 2\oefeningen\SupportCenter\DAL\bin\Debug\net6.0\SC.BL.Domain.pdb
+C:\Users\jonas\OneDrive\Computer\1_SCHOOL\Hogeschool\2022 - 2023\Progra. .NET 2\oefeningen\SupportCenter\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\jonas\OneDrive\Computer\1_SCHOOL\Hogeschool\2022 - 2023\Progra. .NET 2\oefeningen\SupportCenter\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonas\OneDrive\Computer\1_SCHOOL\Hogeschool\2022 - 2023\Progra. .NET 2\oefeningen\SupportCenter\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\jonas\OneDrive\Computer\1_SCHOOL\Hogeschool\2022 - 2023\Progra. .NET 2\oefeningen\SupportCenter\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\jonas\OneDrive\Computer\1_SCHOOL\Hogeschool\2022 - 2023\Progra. .NET 2\oefeningen\SupportCenter\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\jonas\OneDrive\Computer\1_SCHOOL\Hogeschool\2022 - 2023\Progra. .NET 2\oefeningen\SupportCenter\DAL\obj\Debug\net6.0\DAL.csproj.CopyComplete
+C:\Users\jonas\OneDrive\Computer\1_SCHOOL\Hogeschool\2022 - 2023\Progra. .NET 2\oefeningen\SupportCenter\DAL\obj\Debug\net6.0\SC.DAL.dll
+C:\Users\jonas\OneDrive\Computer\1_SCHOOL\Hogeschool\2022 - 2023\Progra. .NET 2\oefeningen\SupportCenter\DAL\obj\Debug\net6.0\refint\SC.DAL.dll
+C:\Users\jonas\OneDrive\Computer\1_SCHOOL\Hogeschool\2022 - 2023\Progra. .NET 2\oefeningen\SupportCenter\DAL\obj\Debug\net6.0\SC.DAL.pdb
+C:\Users\jonas\OneDrive\Computer\1_SCHOOL\Hogeschool\2022 - 2023\Progra. .NET 2\oefeningen\SupportCenter\DAL\obj\Debug\net6.0\ref\SC.DAL.dll

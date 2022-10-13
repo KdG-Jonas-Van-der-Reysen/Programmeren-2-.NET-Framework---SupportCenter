@@ -1,0 +1,64 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SC.UI.CA/1.0.0": {
+        "dependencies": {
+          "SC.BL": "1.0.0",
+          "SC.BL.Domain": "1.0.0"
+        },
+        "runtime": {
+          "SC.UI.CA.dll": {}
+        }
+      },
+      "SC.BL/1.0.0": {
+        "dependencies": {
+          "SC.BL.Domain": "1.0.0",
+          "SC.DAL": "1.0.0"
+        },
+        "runtime": {
+          "SC.BL.dll": {}
+        }
+      },
+      "SC.BL.Domain/1.0.0": {
+        "runtime": {
+          "SC.BL.Domain.dll": {}
+        }
+      },
+      "SC.DAL/1.0.0": {
+        "dependencies": {
+          "SC.BL.Domain": "1.0.0"
+        },
+        "runtime": {
+          "SC.DAL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SC.UI.CA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SC.BL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SC.BL.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SC.DAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
