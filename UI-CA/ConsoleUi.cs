@@ -1,6 +1,6 @@
 ﻿using SC.BL.Domain;
 using SC.UI.CA.ExtensionMethods;
-
+using System.ComponentModel.DataAnnotations;
 namespace SC.UI.CA;
 using SC.BL;
 class ConsoleUi
@@ -16,7 +16,20 @@ class ConsoleUi
     public void Run()
     {
         while (!_quit)
-            ShowMenu();
+        {
+            try
+            {
+                ShowMenu();
+            }
+            catch (ValidationException validationException)
+            {
+                Console.WriteLine(validationException.Message);
+            }
+            catch (Exception exception)
+            {
+                Console.WriteLine("Er heeft zich een fout voorgedaan! Probeer opnieuw!");
+            }
+        }
     }
 
 

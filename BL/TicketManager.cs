@@ -1,6 +1,6 @@
 ﻿using SC.BL.Domain;
 using SC.DAL;
-
+using System.ComponentModel.DataAnnotations;
 namespace SC.BL;
 
 public class TicketManager : ITicketManager
@@ -45,6 +45,7 @@ public class TicketManager : ITicketManager
     // Method to add the ticket to the database
     private Ticket AddTicket(Ticket ticket)
     {
+        this.Validate(ticket);
         return _repo.CreateTicket(ticket);
     }
 
@@ -62,6 +63,7 @@ public class TicketManager : ITicketManager
     // CHANGE
     public void ChangeTicket(Ticket ticket)
     {
+        this.Validate(ticket);
         _repo.UpdateTicket(ticket);
     }
 
@@ -98,6 +100,10 @@ public class TicketManager : ITicketManager
             else
                 ticketToAddResponseTo.State = TicketState.Answered;
             
+            // Validate changes before saving 
+            this.Validate(newTicketResponse);
+            this.Validate(ticketToAddResponseTo);
+
             // Save changes to repository
             _repo.CreateTicketResponse(newTicketResponse);
             _repo.UpdateTicket(ticketToAddResponseTo);
@@ -113,5 +119,21 @@ public class TicketManager : ITicketManager
     public IEnumerable<TicketResponse> GetTicketResponses(int ticketNumber)
     {
         return _repo.ReadTicketResponsesOfTicket(ticketNumber);
+    }
+    
+    // VALIDATION
+    private void Validate(Ticket ticket)
+    {
+        List<ValidationResult> errors = new List<ValidationResult>();
+
+        bool valid = Validator.TryValidateObject(ticket, new ValidationContext(ticket), errors, true);
+
+        if (!valid)
+            throw new ValidationException("Ticket is not valid!");
+    }
+
+    private void Validate(TicketResponse ticketResponse)
+    {
+        Validator.ValidateObject(ticketResponse, new ValidationContext(ticketResponse), true);
     }
 }
